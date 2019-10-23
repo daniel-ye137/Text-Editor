@@ -1,0 +1,1 @@
+Built a rudimentary text editor that users can load a dictionary into for basic functionality. Uses a HashTable to store the dictionary for spellchecking, and uses a Trie to store the dictionary that uses a modified Breadth-First-Search algorithm to provide real-time autocomplete recommendations. Build dependencies are handled by Gradle.
